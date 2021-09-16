@@ -2,3 +2,5 @@
 
 1) pajungtas printeris prie mano laptopo
 2) uploadinti our partners logos i tinklalapi
+3) pakeisti musu partneriu logo is 3 per 1 eilute i 6 per viena eilute
+4) paspaudziant ant logo atsidaro naujas puslapis
