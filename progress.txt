@@ -5,3 +5,8 @@
 3) pakeisti musu partneriu logo is 3 per 1 eilute i 6 per viena eilute
 4) paspaudziant ant logo atsidaro naujas puslapis
 5) footeris prideta, ideti rekvizitai ir subscribe prie naujienlaiskio
+
+
+2021.09.17
+
+1) padarytas dublikatas home page. Home page istrinti nereikalingi sections.
