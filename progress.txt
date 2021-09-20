@@ -10,3 +10,15 @@
 2021.09.17
 
 1) padarytas dublikatas home page. Home page istrinti nereikalingi sections.
+2) offtopic [10 atspausdintu kelioniu lapu]
+3) vertybes page is now with images
+4) [dropdown menu] URL SLUG nerodo lietuvisku raidziu -> pakeistos raides i angliskas
+5) skyrelis praktika
+6) trello.com padarytas zmoniu sarasas kurie turi atsiusi nuotraukas
+
+2021.09.20
+
+1) Pirminis puslapio variantas sukurtas.
+   Prideta daug tekstu laukeliu, reikia informacijos kokius laukelius palikti ir kokius pasalinti.
+   Ideti image su title. Truksta aprasymu kurie bus po title'ais.
+2)
