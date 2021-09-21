@@ -23,6 +23,27 @@
    Ideti image su title. Truksta aprasymu kurie bus po title'ais.
 2) Isimtas Nature Protection logo.
 3) Parduotuviu aprasimai pirmine versija sukurta
-4) sukurtas "darbo pasiulymai page", idetas sandelininko tekstas
-5) sukurtas page "komanda", idetos 4 nuotraukos
+4) sukurtas "darbo pasiulymai" page, idetas sandelininko tekstas
+5) sukurtas page "komanda", idetos 4/23 nuotraukos
 6) I page "karjera" idetas pirmas tekstas
+
+2021.09.21
+
+1) added random team image to "komanda page"
+2) pajungtas spausdintuvas prie mac kompo, romano laptotpo
+3) pajuntas wifi prie mac kompo
+4) "komanda" turi 5/23 nuotraukas
+5) sukurtas external linkas nav bar'e "e-parduotuve"
+6) Pridetas email, facebooko social linkai i puslapio header'i, footeri
+7) Apie mus dropdowne sukurtas linkas "karjera" kuris veda i page "/karjera"
+
+
+
+
+
+
+
+
+
+
+
