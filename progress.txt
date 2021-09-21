@@ -18,7 +18,11 @@
 
 2021.09.20
 
-1) Pirminis puslapio variantas sukurtas.
+1) Pirminis puslapio "apie imone" variantas sukurtas.
    Prideta daug tekstu laukeliu, reikia informacijos kokius laukelius palikti ir kokius pasalinti.
    Ideti image su title. Truksta aprasymu kurie bus po title'ais.
-2)
+2) Isimtas Nature Protection logo.
+3) Parduotuviu aprasimai pirmine versija sukurta
+4) sukurtas "darbo pasiulymai page", idetas sandelininko tekstas
+5) sukurtas page "komanda", idetos 4 nuotraukos
+6) I page "karjera" idetas pirmas tekstas
