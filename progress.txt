@@ -29,13 +29,22 @@
 
 2021.09.21
 
-1) added random team image to "komanda page"
+1) added random team image to "komanda"
 2) pajungtas spausdintuvas prie mac kompo, romano laptotpo
 3) pajuntas wifi prie mac kompo
 4) "komanda" turi 5/23 nuotraukas
 5) sukurtas external linkas nav bar'e "e-parduotuve"
 6) Pridetas email, facebooko social linkai i puslapio header'i, footeri
 7) Apie mus dropdowne sukurtas linkas "karjera" kuris veda i page "/karjera"
+
+2021.09.22
+
+1) pridetas darbo pasiulymas "Pardavejas - konsultantas"
+2) "komanda" page 9/23 darbuotoju nuotraukos (+Jerzy, Deivydas, Antanas)
+3) "komanda" page idetas vaisiu image
+4) "parduotuves" page ideta gariunu parduotuviu ir ju lokaciju nuotraukos
+5) subdomeno pajungti nepavyko nes neturime prieigos pries rankis.lt
+
 
 
 
