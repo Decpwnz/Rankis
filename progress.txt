@@ -54,7 +54,8 @@
 
 1) mail phone on top of menu edited
 2) excel tasks done
-
+3) pajungtas printeris prie egidijaus laptopo
+4) pridetos google lokacijos su zoom funkcija, image pamazinti
 
 
 
