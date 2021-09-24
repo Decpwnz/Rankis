@@ -45,7 +45,15 @@
 4) "parduotuves" page ideta gariunu parduotuviu ir ju lokaciju nuotraukos
 5) subdomeno pajungti nepavyko nes neturime prieigos pries rankis.lt
 
+2021.09.23
 
+1) Perdaryta karuseles paveiksleliu tvarka
+2) "parduotuves" pakeistas vienas gariunu paveikslelis
+
+2021.09.24
+
+1) mail phone on top of menu edited
+2) excel tasks done
 
 
 
