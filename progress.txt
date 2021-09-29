@@ -57,6 +57,25 @@
 3) pajungtas printeris prie egidijaus laptopo
 4) pridetos google lokacijos su zoom funkcija, image pamazinti
 
+2021.09.27
+
+1) konfiguruojamas naujas laptopas
+2) issiustos gariunu parduotuviu, lokacijos ir kokybes tel nr fotkes audriui i audrius@rankis.lt
+3) logos merged. Padarytas galutinis logotipu eiliskumas
+4) parduotuves page sulygintas paveiksleliu ir zemelapiu aukstis, gariunu lokacija perdeta i apacia ir padryta full width
+5) [excel stuff] Pataisyti 4 puslapiu conditional formatting spalvinimai
+6) navigation bar font changed to Oswald
+7) Parsiustos Stiga traktoriuku nuotraukos, ideta viena nuotrauka i karusele
+
+2021.09.28
+
+1) excel excel excel
+2) airtable guide
+3) mac kompe pajungtas wifi ir printeris
+
+2021.09.29
+
+1) parsiuti ir paruosti gifai i vertybes puslapi
 
 
 
