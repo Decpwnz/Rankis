@@ -82,7 +82,28 @@
 =================================================================================================
 
 2021.09.30
+1) [page] home, section "musu naujienos". sukurtos naujienos su paveiksleliais, paspaudus ant image permate i /naujienos page
+2) narsymo juostoje pekeista sriftas 17px -> 15px
+3) [page] home, section slideshow idetas 13 metu kartu image
+4) [home] page musu veiklos prioritetai perdaryti 3 -> 5. Idetos nuotraukos is prezentacijos
+5) priartinta viktorijos nuotrauka, ideta Erik M. nuotrauka
+6) [didmena] idetos Dino nuotraukos ir tekstas ideta
+7) [parduotuves] prideti telefono numeriai po pardotuviu nuotraukomis, pridetos kaikuriu pardaveju nuotraukos
 
+2022.10.01
+
+1) dinas padejo uzpildyti jerzyj eismo ivykio deklaracija
+2) husqvarna parts image added
+3) nav bare vietomis pakeistas mailas ir telefonas
+4) pakeistos fonto, footerio spalvos
+5) Pajungtas Aruno kompas, sutvarkytas wifi, printeris
+6 [home] pridetas musu naujienos text
+7) navigation bar ir dropdown menu pakiesti i geltonus (stylius lightest 1 -> bright 2)
+8) [home] veiklosp prioritetai pridetas textas is apacios ir virsaus, pasalinamas senas veiklos prioritetai kur buvo 3
+9) pakeistas 13metu kartu logotipas virsujep prie navbar, logotipo height pakeistas 35px -> 40px
+10) musu naujienuose pakeistas image skubioji irankiu pagalba
+11) idetas naujas bosch logotipas musu parneriai section
+12) logotipas, pakeistas
 
 
 
