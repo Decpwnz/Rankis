@@ -90,7 +90,7 @@
 6) [didmena] idetos Dino nuotraukos ir tekstas ideta
 7) [parduotuves] prideti telefono numeriai po pardotuviu nuotraukomis, pridetos kaikuriu pardaveju nuotraukos
 
-2022.10.01
+2021.10.01
 
 1) dinas padejo uzpildyti jerzyj eismo ivykio deklaracija
 2) husqvarna parts image added
@@ -105,7 +105,9 @@
 11) idetas naujas bosch logotipas musu parneriai section
 12) logotipas, pakeistas
 
+2021.10.04
 
+1) jerzo diktofonas buvo patisytas
 
 
 
