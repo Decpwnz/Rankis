@@ -99,15 +99,22 @@
 5) Pajungtas Aruno kompas, sutvarkytas wifi, printeris
 6 [home] pridetas musu naujienos text
 7) navigation bar ir dropdown menu pakiesti i geltonus (stylius lightest 1 -> bright 2)
-8) [home] veiklosp prioritetai pridetas textas is apacios ir virsaus, pasalinamas senas veiklos prioritetai kur buvo 3
-9) pakeistas 13metu kartu logotipas virsujep prie navbar, logotipo height pakeistas 35px -> 40px
+8) [home] veiklos prioritetai pridetas textas is apacios ir virsaus, pasalinamas senas veiklos prioritetai kur buvo 3
+9) pakeistas 13metu kartu logotipas virsuje prie navbar, logotipo height pakeistas 35px -> 40px
 10) musu naujienuose pakeistas image skubioji irankiu pagalba
 11) idetas naujas bosch logotipas musu parneriai section
-12) logotipas, pakeistas
+12) pakeistas logotipas
 
 2021.10.04
 
 1) jerzo diktofonas buvo patisytas
+2) padaryti clickable dropdown menu "Apie Mus", "Didmenyne Prekyba" nauduojant code inejection (js, jquery code)
+3) [didmenine prekyba] idetas dino atsiustas image i karusele 
+4) [klientams] idetas images is husqvarna kur klientas kazkas perkasi
+5) rasti video kaip kazkas vazinejasi su traktoriuku
+6) pildomas gif sarasas [vertybes] puslapiui 11/11
+
+2021.10.06
 
 
 
