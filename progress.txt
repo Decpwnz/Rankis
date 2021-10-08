@@ -131,6 +131,15 @@
 2021.10.07
 
 1) padaryta 18 baneriu facebookui
+2) video baneris facebookui echo cs-310
+3) pakeistos komandos galvos prezentacijoje
+
+2021.10.08
+
+1) [paslaugos] ikeltas geltonas repair ambulance
+2) sienu ir lubu slifuokli is facebook ad pakeistas, kad butu image in action
+3) [kontaktai] pakeista is komandos nuotraukos is k12 parduotuves nuotrauka
+4) prezentacijoje skirtukai padaryti juoda spalva, textas geltonas
 
 
 
