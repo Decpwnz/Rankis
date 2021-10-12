@@ -147,4 +147,6 @@
 2) ideta airtable forma i [dalys] puslapi
 3) +2 baneriai: irankiu, sodo technikos profilaktika
 4) padaryti baneriu klonai rusu kalba
+5) facebook post
 
+2021.10.12
