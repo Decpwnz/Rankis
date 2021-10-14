@@ -124,7 +124,7 @@
 
 1) uzregintas emailas rankis.group@gmail.com
 2) facebooke prisijungiau i freeelanceriu grupe ir issiunciau klausima del canva
-3) krepiausu i canva supporta del accounto upgrade
+3) kreipiausu i canva supporta del accounto upgrade
 4) pridetas linkas puslapio privatumo politika i [footeri]
 5) aktyvuotas canva pro kzharkov@gmail.com
 
@@ -157,3 +157,5 @@
 2021.10.13
 
 1) paleista reklama su forma
+
+2021.10.14
