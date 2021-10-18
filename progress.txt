@@ -172,3 +172,8 @@
 1) isrinkti 5 komentarai i rankis.lt -> ideti i reprezentacine svetaine, parinkti 5 paveiskliukia komentarams
 2) sukurti 4 nauji dublikatai serviso baneriu rusu kalba
 3) sukurti facebooko baneriu klonai su "facebook post" rezolucija
+
+2021.10.18
+
+1) sukurtas sluotos video
+2) sukurta facebook forma
