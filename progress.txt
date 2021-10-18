@@ -159,3 +159,16 @@
 1) paleista reklama su forma
 
 2021.10.14
+
+1) created facebooks targeted audience [LT]
+2) pakeistas 15 banerio rusiskos versijos layoutas
+3) signed up for zapier
+4) connected facebook -> zappier -> airtable
+5) +4 facebook banners
+6) papostinti baneriai facebooko grupeje
+
+2021.10.15
+
+1) isrinkti 5 komentarai i rankis.lt -> ideti i reprezentacine svetaine, parinkti 5 paveiskliukia komentarams
+2) sukurti 4 nauji dublikatai serviso baneriu rusu kalba
+3) sukurti facebooko baneriu klonai su "facebook post" rezolucija
