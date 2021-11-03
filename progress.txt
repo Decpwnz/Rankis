@@ -208,3 +208,7 @@
 2021.10.28
 
 1) photoshope sukurti baneriai 2, 3
+
+2021.11.03
+
+1) vertikalus A4 baneriu tekstas buvo pakeistas (kad tilptu viena raide tarpuose)
