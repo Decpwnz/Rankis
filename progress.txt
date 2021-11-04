@@ -212,3 +212,8 @@
 2021.11.03
 
 1) vertikalus A4 baneriu tekstas buvo pakeistas (kad tilptu viena raide tarpuose)
+2) airtable weird stuff
+3) sukurtas sutikimo textas ryobi baneriams
+
+2021.11.04
+
