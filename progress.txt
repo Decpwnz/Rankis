@@ -221,3 +221,11 @@
 2) Airtable [Sprendimai] paskaiciutas dienos rezultato po pokyciu avg
 3) Airtable [Sprendimai] paskaiciuotas skirtumas 1 ir 2 punkto "Kampanijos Rezultatas" field
 4) sukurtas fieldas kuris atsizvelgiant "Kampanijos rezultatas" rezultato rodo sirdeles. Zalia > 0, geltona = 0, raudona < 0
+
+2021.11.05
+
+1) pakeisti ryobi baneriai 
+
+2021.11.08
+
+1)
