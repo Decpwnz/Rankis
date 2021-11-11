@@ -240,3 +240,11 @@
 
 1) paboostintas ryobi postas su giveaway
 2) sukurtas pirmas dedra baneris
+
+2021.11.11
+
+1) kalediniai atvirukai sukurti issiusti mazena@rankis.lt
+2) facebooko 150+ posto giveaway pridetas vienas is prizu (akumuliatorinis suktukas) i komentarus 1/4
+3) parsiusti facebook leads kaip .csv
+4) pauploadinti facebook leads.csv i airtable
+5) atspaudinti leads.csv is airtable i a4 puslapio formata
