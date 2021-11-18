@@ -273,3 +273,14 @@
 
 1) atspausdinti dedra ad image, dedra, ryobi, egidijaus leads
 2) issiusti dedra leads + dedra ad image erikui isorui
+3) airtable sukurtas naujas table "Serviso uzklausa [servisas]"
+4) airtable "Serviso uzklausa [servisas]" sukurta forma
+5) squarespace [servisas] ideta forma is airtable "Serviso uzklausa [servisas]"
+6) issiustas laiskas zilvinui del serviso kainu bei forma ivertinimui
+7) yoga time
+8) updated Garbrieles mac + changed ui language russian -> english
+
+2021.11.18
+
+1) fb.com/rankis.lt Erikas Isoras padarytas adminu
+2) atspausdinti ryobi, egidijaus leads
