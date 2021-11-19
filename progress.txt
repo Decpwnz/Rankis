@@ -291,3 +291,8 @@
 2021.11.19
 
 1) atspausdinti ryobi, egidijaus leads
+2) parsisiusti serviso baneriai
+3) perdaryti serviso 2 baneriai
+4) facebooke paleistos 2 reklamos servisui
+5) parsiustas Dino amberline image'as, pakeistas size ir idetas i squarespace karusele
+6) [komanda] atnaujinta, istrinti neidrbantis asmenys ir prideti nauji komandos nariai
