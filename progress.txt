@@ -296,3 +296,11 @@
 4) facebooke paleistos 2 reklamos servisui
 5) parsiustas Dino amberline image'as, pakeistas size ir idetas i squarespace karusele
 6) [komanda] atnaujinta, istrinti neidrbantis asmenys ir prideti nauji komandos nariai
+
+2021.11.22
+
+1) i airtable'o "untitled base2" database [dashaboard] table pridetas naujas recordas People
+2) atspausdinti ryobi, egidijaus leads
+3) sustabdytos ryobi officialus atstovas ir dedra officialus atstovas reklamos (page likes)
+4) paleistos naujos ryobi officialus atstovas ir dedra officialus atstovas reklamos (messenger messages)
+5) pasharinta romanp prezentacija su denis@rankis.lt
