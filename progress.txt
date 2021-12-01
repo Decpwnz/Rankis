@@ -346,3 +346,5 @@
 
 1) atspausdinti ryobi, egidijaus leads
 2) parsisiusti elenos laisko produktai pagal ju barkoda is rankis.lt
+3) kvadratinis katalogo virselis (gray)
+4) kvadratiniai 2 ir 3 puslapis
