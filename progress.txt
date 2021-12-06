@@ -348,3 +348,17 @@
 2) parsisiusti elenos laisko produktai pagal ju barkoda is rankis.lt
 3) kvadratinis katalogo virselis (gray)
 4) kvadratiniai 2 ir 3 puslapis
+
+2021.12.02
+
+1) atspausdinti ryobi, egidijaus leads
+
+2021.12.03
+
+1) atspausdinti ryobi leads (egidijaus nebuvo)
+2) padarytas katalogo back cover, idetas jame tekstas is rankis.lt
+3) idetas facebook messenger botas i reprezentacine svetaine
+
+2021.12.06
+
+1) atspausdinti ryobi, egidijaus leads
