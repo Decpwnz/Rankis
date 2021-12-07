@@ -362,3 +362,13 @@
 2021.12.06
 
 1) atspausdinti ryobi, egidijaus leads
+2) katalogo aprasymai 
+3) katalogo aprasymu spalvos (to be chosen)
+4) [parduotuves] nauja gariunu nuotrauka
+
+2021.12.07
+
+1) kataloge pasalinti spalvoti shading is prekiu aprasymo. Paliktas default variantas
+2) kataloge pasaintas oversize textas
+3) audriui excelyje konvertintas text -> numbers
+4) atspausdinti ryobi leads (egidijaus nebuvo)
