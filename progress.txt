@@ -372,3 +372,9 @@
 2) kataloge pasaintas oversize textas
 3) audriui excelyje konvertintas text -> numbers
 4) atspausdinti ryobi leads (egidijaus nebuvo)
+5) uzregistruotas kristinai kristina.rankis@gmail.com emailas
+6) pamokiau kristina nauduotis mac'u (pagrindai), google gmail (pagrindai), google drive (pagrindai)
+7) sukurti flyeriai 4x4 inch "naujiena", "ypatinga kaina"
+8) sukurti interactive, noninteracrtive .pdf katalogo faili InDesigne
+9) sukurtas flipsnack acc, i ji idetas .pdf katalogas, sukurtas virtualus zurnalas
+10) elenai issiusti .pdf internactive katalogas, noninteractive katalogas, virtualaus katalogo linkas
