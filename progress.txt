@@ -378,3 +378,28 @@
 8) sukurti interactive, noninteracrtive .pdf katalogo faili InDesigne
 9) sukurtas flipsnack acc, i ji idetas .pdf katalogas, sukurtas virtualus zurnalas
 10) elenai issiusti .pdf internactive katalogas, noninteractive katalogas, virtualaus katalogo linkas
+
+2021.12.08
+
+1) atspausdinti ryobi leads
+2) jpg flyeriai issiusti gabrielei
+3) isimtos kainos is produktu katalogo
+
+2021.12.09
+
+1) atspausdinti ryobi, egidijaus leads
+2) padaryti nauji flyeriai, issiusti aidai kaip jpg
+3) prideti kultuvatoriai i kataloga
+4) pridetas i katalogo parenta apacioje oranzinis rectangle kuris eis per visus puslapius
+5) pridetas i apacia parento logo amberline
+
+2021.12.10
+
+1) issiustas atskiras prekiu katalogas padarytas dinui (.pdf)
+2) idetos alyvos i kataloga
+3) i [vertybes] idetas verybiu tekstas
+4) bugnai kataloge pertvarkyti, ideti 4 bugnai prie vieno paveikslelio, alyvos perdetuos i puslapi kur buvo seni bugnai
+
+2021.12.20
+
+1) atspausdinti ryobi, egidijaus leads
